@@ -1,0 +1,16 @@
+{
+  "name": "kpzc-cli-dev-template-page-custom",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "fs-extra": "^10.1.0",
+    "glob": "^8.0.3",
+    "pkg-up": "^3.1.0",
+    "semver": "^7.3.8"
+  }
+}
