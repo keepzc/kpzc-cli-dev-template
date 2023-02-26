@@ -1,0 +1,12 @@
+{
+  "name": "kpzc-cli-section-plugin",
+  "version": "1.0.1",
+  "description": "",
+  "main": "kpzcCliSectionPlugin.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-webpack-plugin": "^4.5.2"
+  }
+}
